@@ -7,8 +7,37 @@
     <link rel="stylesheet" href="CSS/style.css">
     <link rel="icon" href="Images/jashan.png">
     <meta name="name" content="Jashan Portfolio">
+    <script src="https://kit.fontawesome.com/403c2c2a9a.js" crossorigin="anonymous"></script>
   </head>
   <body>
+    <nav>
+      <input type="checkbox" id="sidemenubutton">
+      <label for="sidemenubutton" class="menu-bar"><i class="fa-solid fa-bars"></i></label>
+
+      <label for="">Jashan</label>
+       <div class="social-media">
+          <a href="https://github.com/jashan-panwa" target="_blank"><i class="fa-brands fa-github"></i></a>
+          <a href="https://linkedin.com/in/jashan-panwa" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
+          <a href="https://instagram.com/its.me_jashan" target="_blank"><i class="fa-brands fa-square-instagram"></i></a>
+        </div>
+        
+    </nav>
+    <div class="side-menu">
+      <center>
+        <img src="Images/jashan.png" alt="profilepicture">
+      </center>
+      <br>
+      <a href=""><i class="fa-solid fa-house"></i><span>&nbsp;Home</span></a>
+      <a href=""><i class="fa-solid fa-bucket"></i><span>&nbsp;Projects</span></a>
+      <a href=""><i class="fa-solid fa-address-card"></i><span>&nbsp;About Me</span></a>
+      <a href=""><i class="fa-solid fa-briefcase"></i><span>&nbsp;Experience</span></a>
+      <a href=""><i class="fa-solid fa-phone"></i><span>&nbsp;Contact Me</span></a>
+    </div>
+
+
+  <div class="screendata">
+
+
     <img src="Images/jashan.png" alt="image" width="40%" height="15%" />
     <h1>Jashan Portfolio</h1>
     <h2>About Me</h2>
@@ -19,9 +48,28 @@
     <p><a href="Resume.html" target="_blank">My Resume</a> | <a href="https://github.com/jashan-panwa" target="_blank">my github</a></p>
     <h2>contacts</h2>
     <p>Email:<a href="mailto:jashanpanwa2003@gmail.com" target="_blank">jashanpanwa2003@gmail.com</a></p>
-  </body>
+  
   <footer>
     <hr />
     <code>copyright (C) 2023</code>
   </footer>
+  </div>
+
+
+
+
+  <script>
+    // JavaScript to toggle the side menu on button click
+    const sideMenuButton = document.getElementById('sidemenubutton');
+    const sideMenu = document.querySelector('.side-menu');
+  
+    sideMenuButton.addEventListener('click', function () {
+      if (sideMenuButton.checked) {
+        sideMenu.classList.add('show');
+      } else {
+        sideMenu.classList.remove('show');
+      }
+    });
+  </script>
+  </body>
 </html>
