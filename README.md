@@ -5,6 +5,7 @@ This is a simple and elegant personal portfolio website designed and developed b
 ## Table of Contents
 
 - [Description](#description)
+- [ProjectStructure](#projectstructure)
 - [Features](#features)
 - [Usage](#usage)
 - [Customization](#customization)
@@ -15,6 +16,24 @@ This is a simple and elegant personal portfolio website designed and developed b
 ## Description
 
 Jashan Portfolio is a web application created to showcase a personal portfolio. It is designed for individuals who want to display their skills, experiences, and projects in a clean and organized way. This portfolio website provides a user-friendly interface and an attractive design to present your professional information.
+
+## ProjectStructure
+
+jashan-portolio/
+│   README.md                # Read me file
+│   LICENSE                  # Licence file
+│
+├── images/
+│   │   home-pic.png         # Image used
+│
+├── src/
+│   │   source.js          # The JavaScript file for functionality
+│
+├── styles/
+│   │   style.css          # The CSS file for styling
+│
+├── views/
+│   │   index.html          # The main HTML file
 
 ## Features
 
