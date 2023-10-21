@@ -1,6 +1,6 @@
 # Jashan Portfolio
 
-![Portfolio Screenshot](screenshot.png)
+![Portfolio Screenshot](Images/jashan.png)
 
 This is a simple and elegant personal portfolio website designed and developed by [Your Name].
 
@@ -95,5 +95,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Feel free to use this portfolio template to create your own professional portfolio website and showcase your work and experiences. If you have any questions or need assistance, please don't hesitate to reach out.
 
-[Visit the live portfolio here](https://example.com)
+[Visit the live portfolio here](https://jashan-panwa.github.io/jashan-portfolio/)
 
