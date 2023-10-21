@@ -1,7 +1,5 @@
 # Jashan Portfolio
 
-![Portfolio Screenshot](Images/jashan.png){:width="300px" height="200px"}
-
 This is a simple and elegant personal portfolio website designed and developed by [Jashan].
 
 ## Table of Contents
