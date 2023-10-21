@@ -2,7 +2,7 @@
 
 ![Portfolio Screenshot](Images/jashan.png)
 
-This is a simple and elegant personal portfolio website designed and developed by [Your Name].
+This is a simple and elegant personal portfolio website designed and developed by [Jashan].
 
 ## Table of Contents
 
