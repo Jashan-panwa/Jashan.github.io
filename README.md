@@ -19,21 +19,21 @@ Jashan Portfolio is a web application created to showcase a personal portfolio. 
 
 ## ProjectStructure
 
-jashan-portolio/
-│   README.md                # Read me file
-│   LICENSE                  # Licence file
+jashan-portfolio/
+│ README.md # Read me file
+│ LICENSE # License file
 │
 ├── images/
-│   │   home-pic.png         # Image used
+│ │ home-pic.png # Image used
 │
 ├── src/
-│   │   source.js          # The JavaScript file for functionality
+│ │ source.js # JavaScript file for functionality
 │
 ├── styles/
-│   │   style.css          # The CSS file for styling
+│ │ style.css # CSS file for styling
 │
 ├── views/
-│   │   index.html          # The main HTML file
+│ │ index.html # Main HTML file
 
 ## Features
 
